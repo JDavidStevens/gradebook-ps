@@ -6574,11 +6574,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Source\\Education\\cs\\gradebook\\test\\GradeBook.Test\\GradeBook.Test.csproj",
+      "projectUniqueName": "C:\\Source\\Education\\CS\\gradebook\\test\\GradeBook.Test\\GradeBook.Test.csproj",
       "projectName": "GradeBook.Test",
-      "projectPath": "C:\\Source\\Education\\cs\\gradebook\\test\\GradeBook.Test\\GradeBook.Test.csproj",
+      "projectPath": "C:\\Source\\Education\\CS\\gradebook\\test\\GradeBook.Test\\GradeBook.Test.csproj",
       "packagesPath": "C:\\Users\\james.stevens\\.nuget\\packages\\",
-      "outputPath": "C:\\Source\\Education\\cs\\gradebook\\test\\GradeBook.Test\\obj\\",
+      "outputPath": "C:\\Source\\Education\\CS\\gradebook\\test\\GradeBook.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6597,8 +6597,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Source\\Education\\cs\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
-              "projectPath": "C:\\Source\\Education\\cs\\gradebook\\src\\GradeBook\\GradeBook.csproj"
+            "C:\\Source\\Education\\CS\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
+              "projectPath": "C:\\Source\\Education\\CS\\gradebook\\src\\GradeBook\\GradeBook.csproj"
             }
           }
         }
